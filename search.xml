@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>auto-jdsd 教程&amp;注意事项</title>
+      <link href="/post/undefined.html"/>
+      <url>/post/undefined.html</url>
+      
+        <content type="html"><![CDATA[<div class="tip warning"><p>声明：本篇文章仅供学习参考，且已在GitHub上开源，承诺无木马病毒，如不放心可前往本仓库查看：<a href="https://github.com/Gomorebug/auto-jdsd。">https://github.com/Gomorebug/auto-jdsd。</a></p></div><div class="tip success"><p>注意：个别电脑可能会安装一些电脑管家阻止本程序获取电脑的一些权限，请打开</p></div><div class="tip note"><p>免责声明：使用本软件所带来的一切后果由用户负责。</p></div> <div class="note info simple no-icon flat"><p>auto-jdsd是一款一键式完成阅读的软件，核心代码来自<a href="https://github.com/situ2001/gzhu-jdsd-helper">situ2001/jdsd-helper</a>。开发本软件旨在激发用户的阅读兴趣，每日可获取积分21。</p><p>本软件是v2.0.0版本，如果您会拦截网络包，您可以<a href="https://github.com/Gomorebug/auto-jdsd">点击这里前往GitHub仓库</a>获取v1.0.0版本，v2.0.0较v1.0.0版本操作更简单，无需要如何计算机知识或安装其他软件即可使用，真正满足了使用简单无脑的需求，并且完全承诺开源免费。</p><p>v1.0.0版本教程链接如右：<a href="https://www.hugcode.cc/post/f9835dcc.html">helper教程 | Gomorebug&#39;s Blog (hugcode.cc)</a></p><p>如果本软件切实地帮助到您，可以在star本仓库，链接如右：<a href="https://github.com/Gomorebug/auto-jdsd。">https://github.com/Gomorebug/auto-jdsd。</a></p><p>如果有打赏作者的想法，也十分欢迎。本文将介绍使用方法。</p></div><p><img src="/post/undefined/image-20230420175334412.png" alt="image-20230420175334412"></p><div class="note primary simple no-icon flat"><ul><li>填写栏：用户所需填写的信息只有邮箱一栏，<span class="p red">注意：邮箱是为了显示每日积分与总积分，并且还兼顾提示用户脚本的运行情况</span>，提示邮箱格式如下图所示：%}</li></ul></div><p><img src="/post/undefined/image-20230419222425009.png" alt="image-20230419222425009"></p><div class="note primary simple no-icon flat"><ul><li>开始栏：用户只需在填写邮箱后点击“开始”即可启动程序。<span class="p red">注意：第一次启动要开启管理员模式，并且如遇提示要打开jdsd，请打开。</span></li></ul></div><div class="tip bell"><p>在使用前请提前登陆好微信方便后续操作。</p></div><div class="note success simple no-icon flat"><ul><li>在第一次使用时，请打开管理员模式，并输入您的邮箱。<span class="p red">注意：部分电脑可能安装了电脑管家会拦截请求，请允许本软件通过</span>。</li></ul></div><p><img src="/post/undefined/bandicam-2023-04-17-17-12-06-454-Trim-16819867893851.gif" alt="bandicam-2023-04-17-17-12-06-454-Trim"></p><div class="note success simple no-icon flat"><ul><li>接着，按提示打开电脑微信中<span class="p red">已登录过</span>的经典诵读。</li></ul></div><p><img src="/post/undefined/bandicam-2023-04-20-18-16-32-750-Trim.gif" alt="bandicam-2023-04-20-18-16-32-750-Trim"></p><div class="note success simple no-icon flat"><ul><li>在您配置完后下次打开本软件时，无需配置，打开即可完成每日阅读</li></ul></div><p><img src="/post/undefined/bandicam-2023-04-20-18-17-26-083-Trim-16819870847002.gif" alt="bandicam-2023-04-20-18-17-26-083-Trim"></p><div class="note default simple no-icon flat"><ul><li>您可以点击博客中的右下角的聊天选项，并且输入您想提问的问题即可。注意留下邮箱以获取最新回复。</li></ul></div><div class="tip cogs"><p>如果遇到使用后电脑上不了网，请依次打开“设置”-&gt;”网络和Internet”-&gt;“代理”，然后关闭手动代理服务器。</p></div><div class="note warning simple no-icon flat"><ul><li>您可以点击博客中的右下角的聊天选项，并且输入您想提问的问题即可。注意留下邮箱以获取最新回复。</li></ul></div><p><img src="/post/undefined/image-20230420190239813.png" alt="image-20230420190239813"></p><hr><p><img src="/post/undefined/image-20230420190107204.png" alt="image-20230420190107204"></p><div class="note warning simple no-icon flat"><ul><li>您也可以GitHub上<a href="https://github.com/Gomorebug/auto-jdsd">在本仓库</a>中的issues一栏反馈问题。</li></ul></div><p><img src="/post/undefined/image-20230420191201677.png" alt="image-20230420191201677"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>helper教程</title>
       <link href="/post/f9835dcc.html"/>
       <url>/post/f9835dcc.html</url>
