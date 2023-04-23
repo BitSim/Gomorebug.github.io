@@ -1,0 +1,12 @@
+http://example.com/post/j1205dsd.html
+http://example.com/sponsor/index.html
+http://example.com/post/f9835dcc.html
+http://example.com/about/index.html
+http://example.com/post/4a17b156.html
+http://example.com/bangumis/index.html
+http://example.com/link/index.html
+http://example.com/tags/index.html
+http://example.com/categories/index.html
+http://example.com/
+http://example.com/tags/%E6%95%99%E7%A8%8B/
+http://example.com/categories/%E6%95%99%E7%A8%8B/
